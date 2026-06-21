@@ -1,3 +1,2 @@
-# Git course
-
-This is random git course
+# git
+This is readme file
